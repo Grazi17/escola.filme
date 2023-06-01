@@ -26,10 +26,16 @@ h2{
 
 .cartazes {
 display: grid;
-grid-template-columns: 25% 25% 25% 25%;
+grid-template-columns: 30% 30% 30% 30%;
 }
 .link{
     background-color: rgb(236, 57, 141);
     color:black ;
     
+}
+.imagem-informacao{
+   color: blueviolet;
+    width: 10%;
+    font-size:30 px ;
+    font-family: 'Bebas Neue', sans-serif;
 }
